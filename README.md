@@ -1,5 +1,11 @@
 # Hospital-emergency-room-dashboard-excel-project
 
+I have created dashboard to find out meaningful insights on Hospital Emergency Room data
+
+<img width="1531" height="560" alt="Screenshot Hospital Emergency Room" src="https://github.com/user-attachments/assets/07ad89d4-ac59-4e17-a002-80002c845388" />
+
+
+
 Project Overview
 
 This project demonstrates an **End-to-End Dashboard** built in **Microsoft Excel** for analyzing **Hospital Emergency Room performance**.
